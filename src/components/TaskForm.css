@@ -1,0 +1,16 @@
+.task_form{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.task_form .btn {
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+
+.task_form .btn:hover{
+    background-color: rgb(12, 12, 29);
+    color: white;
+}
